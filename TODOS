@@ -1,0 +1,18 @@
+
+
+useConfig - base functionality for storing single config - manipulate single state or reducer
+
+useConfigList - manipulating list of configs
+useConfigStorage - possibility to local storage
+useConfigListStorage - possibility to save cofnigs to storage
+
+composing storage - part two - it's composing the storages
+
+useContextConfig
+useContextConfigList
+
+ContextConfigProvider
+
+reducer?
+
+
